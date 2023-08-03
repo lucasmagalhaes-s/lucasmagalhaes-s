@@ -1,5 +1,13 @@
 ### Olá! Eu sou o Lucas Magalhães 🖖
 
+✍️No momento estou aprendendo JAVA/HTML/CSS/JS
+
+📚 Faço faculdade de ADS - Análise e desenvolvimento de sistemas - 4/5
+
+💻 Consigo desenvolver com HTML, CSS, JS, java
+
+📫 Entre em contato comigo lucasmagalhaes.s@hotmail.com
+
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-magalh%C3%A3es-silva/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luscaxms/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/spartanbrr)
