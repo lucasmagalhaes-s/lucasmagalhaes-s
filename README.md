@@ -2,7 +2,7 @@
 
 ✍️No momento estou aprendendo JAVA/HTML/CSS/JS
 
-📚 Faço faculdade de ADS - Análise e desenvolvimento de sistemas - 4/5
+📚 Faço faculdade de ADS - Análise e desenvolvimento de sistemas - 5/5
 
 💻 Consigo desenvolver com HTML, CSS, JS, java
 
